@@ -14,12 +14,12 @@ You can have panel sizes greater than 128x128 (2x2) read through his page before
 
 Kudos goes to
 
-mrfaptastic https://github.com/mrfaptastic
-Brian Lough https://github.com/witnessmenow
-Marc Merlin https://github.com/marcmerlin
+mrfaptastic https://github.com/mrfaptastic  
+Brian Lough https://github.com/witnessmenow  
+Marc Merlin https://github.com/marcmerlin  
 
 and for the FM612x reset routine
-Bob Davis https://github.com/bobdavis321
-Bob Davis https://bobdavis321.blogspot.com/search?q=matrix
+Bob Davis https://github.com/bobdavis321  
+Bob Davis https://bobdavis321.blogspot.com/search?q=matrix  
 
 If anyone wants to add to this please do any help would be appreciated.
